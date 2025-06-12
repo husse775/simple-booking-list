@@ -80,8 +80,6 @@ Body: { "room": "Room 1", "date": "2025-06-15T10:00:00Z" }
 GET /api/bookings
 Headers: Authorization: Bearer <token>
 
-csharp
-
 ## Note
 
 You need a free MongoDB Atlas account to get your MONGO_URI.
